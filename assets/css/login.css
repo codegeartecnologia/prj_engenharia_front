@@ -10,8 +10,8 @@ body {
   color: #fff;
   text-rendering: optimizeLegibility;
   font-weight: 400;
-  background-color: #52627C;
-  background-image: url(.../images/login-bg.jpg);
+  background-color: #4682B4; /*#4682B4 -- #52627C*/
+  background-image: url(../images/login-bg.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
