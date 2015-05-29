@@ -2,7 +2,7 @@
 	
     //Diretório do Sistema
     define("BASEPATH",dirname(__FILE__)."/");
-	define("BASEURL", "http://localhost/Github/prj_engenharia/");
+	define("BASEURL", "http://localhost/Github/prj_engenharia_front/");
 	define("ADMURL", BASEURL."painel.php");
 	define("CLASSESPATH", "classes/");
 	define("MODULOPATH", "modulos/");
